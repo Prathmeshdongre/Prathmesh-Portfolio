@@ -112,7 +112,7 @@ export const SkillsInfo = [
       img: hulkhirelogo,
       role: "Java Developer",
       company: "Hulk Hire",
-      date: "Oct 2025 - Present",
+      date: "Aug 2025 - Present",
       desc: "Built a production-ready backend using Java and Spring Boot, implementing RESTful APIs and integrating Stripe for secure payment processing, ensuring scalable and reliable transaction workflows, optimize application performance in an agile environment.",
       skills: [
         "Java",
@@ -130,7 +130,7 @@ export const SkillsInfo = [
       img: agcLogo,
       role: "Fullstack Engineer Intern",
       company: "Agumentik Group of Companies",
-      date: "Nov 2025- oct 2025",
+      date: "Nov 2024- April 2025",
       desc: "Worked as a Fullstack Engineer Intern, leading both frontend and backend development using various technologies, Worked closely with the team to deliver responsive, high-performance web applications and improve user experience through seamless integration of various technologies.",
       skills: [
         "Rect JS",
